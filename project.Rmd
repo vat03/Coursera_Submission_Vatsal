@@ -1,7 +1,7 @@
 ---
 title: "Predictions using the Weight Lifting Exercises Dataset"
-author: "Rutva Vora"
-date: "09 Oct 2024"
+author: "Vatsal Soni"
+date: "16 Oct 2024"
 output: 
   html_document:
     keep_md: yes
